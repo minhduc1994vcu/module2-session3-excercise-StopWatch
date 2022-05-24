@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class StopWatch {
     public static void main(String[] args) {
+        System.out.println("demo");
         StopWatch stopWatch = new StopWatch();
         Scanner scanner = new Scanner(System.in);
         int choise;
